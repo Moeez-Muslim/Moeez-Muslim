@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CS undergrad currently working on automating Web Development tasks using LLMs. I'm looking for open source projects that I can collaborate on
+I tell computers what to do, and sometimes they listen :)
 
 
 ## 🌐 Socials:
