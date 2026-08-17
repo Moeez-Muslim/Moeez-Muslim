@@ -1,25 +1,151 @@
-# I tell computers what to do, and sometimes they listen :)
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MoeezMuslimm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moeez_muslim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeez-muslim) 
+# Moeez Muslim
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moeez-muslim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moeez-muslim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez-muslim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Software Engineer — Backend, Infrastructure & Applied AI**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/moeez-muslim"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://moeez-mu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:mail2moeezmuslim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=moeez-muslim&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=moeez-muslim&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moeez-muslim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I tell computers what to do, and these days they mostly listen.
+
+Three-plus years in, currently leading the backend team at **ByteShifted**. A YC-backed
+startup taught me to build from the ground up. Enterprise-scale systems taught me to build
+for **high availability at scale**. LLMs and MCP taught me how to bring AI *into* the systems
+I build — not just build systems for AI.
+
+- 🌍 Islamabad, Pakistan — working remote
+- 🏗️ Currently: multi-datacenter hosting infrastructure, GPU LLM deployments, and MCP servers
+- 🎓 BS Computer Science, FAST NUCES — **Gold Medalist**, 5× Dean's List
+- ☁️ AWS Certified Solutions Architect – Associate · CKA in progress
+
+---
+
+## What I'm Building
+
+| Project | What it is |
+| --- | --- |
+| **[HostPepper](https://hostpepper.com)** | Multi-tenant hosting platform serving **100+ domains** across **three data centers**. BGP Anycast for geoproximity routing, HAProxy for sub-second failover, Galera for multi-site DB replication — **99.99% uptime**. Self-hosted DNS on PowerDNS with AXFR zone propagation. |
+| **[hakk.ai](https://hakk.ai)** | **GLM 5.2** and **Qwen3-Coder** running on an 8×B200 GPU node — in-house inference, an AI website builder, and a multi-tenant API platform for external LLM access. |
+| **HostPepper MCP** | Lets AI agents manage hosting **through a prompt**: accounts, backups, DNS, mailboxes, and database operations. |
+| **[RadialTire](https://radialtire.com)** | B2C tire marketplace on a **Saleor** headless backend with Next.js — **8,000+ SKUs**, license-plate recommendation lookup, inventory management. Kubernetes + ArgoCD GitOps cut deployment time **40%**. |
+| **Pricing Engine** | Web scrapers aggregating tire prices from vendors across the US, with AI-driven price adjustment — **+12% sales conversion**. |
+| **[ByteShifted Cloud](https://cloud.byteshifted.io)** | Every company project deployed and managed on Coolify, with standardized CI/CD and automated backups across environments. |
+
+---
+
+## Open Source & Side Projects
+
+| Repo | What it does |
+| --- | --- |
+| **[middleware-labs/mw-agent](https://github.com/middleware-labs/mw-agent)** | Host-monitoring agent in **Go** (Linux, Kubernetes, Docker, Windows, macOS), plus a custom **OpenTelemetry Collector** fork and release infra for one-line installs. |
+| **[middleware-labs/agent-apm-python](https://github.com/middleware-labs/agent-apm-python)** | APM instrumentation SDK for real-time metrics and distributed tracing — part of a set spanning Python, Go, Node.js, and Dart. |
+| **[AI-Project-Manager](https://github.com/Moeez-Muslim/AI-Project-Manager)** | An agent that turns text and voice prompts into actionable tasks with owners and deadlines — a full Scrum PM. **200+ Trello/Notion** integrations, **30+ Google Workspace** integrations. |
+| **[Distributed-Mail-Server](https://github.com/Moeez-Muslim/Distributed-Mail-Server)** | Forked single-node **Mailcow** into a multi-node **Kubernetes** cluster — Galera for synchronous MariaDB replication, `dsync` for real-time vmail replication, IaC for the whole deploy. |
+| **[MySQL-Galera-Cluster](https://github.com/Moeez-Muslim/MySQL-Galera-Cluster)** | Ready-to-run Galera setup for a highly available MySQL/MariaDB tier. |
+| **[fleet-management-voice-agent](https://github.com/Moeez-Muslim/fleet-management-voice-agent)** | Voice-driven agent for fleet management workflows. |
+
+---
+
+## Tech
+
+**Cloud, Infrastructure & Networking**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624)
+![BGP Anycast](https://img.shields.io/badge/BGP_Anycast-1A56A0?style=flat-square)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PowerDNS](https://img.shields.io/badge/PowerDNS-1A56A0?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![High Availability](https://img.shields.io/badge/HA_%26_Failover-5A5A5A?style=flat-square)
+
+**Containers, CI/CD & IaC**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-8C52FF?style=flat-square)
+
+**Reliability & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Distributed Tracing](https://img.shields.io/badge/Distributed_Tracing-5A5A5A?style=flat-square)
+![SLI/SLO](https://img.shields.io/badge/SLI%2FSLO%2FSLA-5A5A5A?style=flat-square)
+
+**Backend, APIs & Databases**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Galera](https://img.shields.io/badge/Galera_Cluster-1A56A0?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI/ML & MLOps**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A5A5A?style=flat-square)
+![LLM Deployment](https://img.shields.io/badge/GPU_LLM_Deployment-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+
+---
+
+## Recognition
+
+🥇 **Gold Medalist** — FAST NUCES, highest academic distinction &nbsp;·&nbsp;
+🎖️ 5× Dean's List of Honors &nbsp;·&nbsp;
+🏅 **B2B Medal** — Agentic AI Hackathon by Agentika (Silicon Valley) &nbsp;·&nbsp;
+☁️ AWS Certified Solutions Architect – Associate
+
+---
+
+## On GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeez-muslim&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeez-muslim&theme=default" alt="GitHub profile summary" />
+</picture>
+
+</div>
+
+> Most of what I ship lives in private and company repos — infrastructure, hosting platforms,
+> and LLM deployments. The links above are the parts I can point at publicly.
+
+---
+
+<div align="center">
+
+**Building something that needs to stay up?**
+
+[Let's talk →](mailto:mail2moeezmuslim@gmail.com)
+
+</div>
